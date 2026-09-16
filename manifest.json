@@ -1,0 +1,24 @@
+{
+    "id": "mtr-trains",
+    "name": "Hong Kong MTR Trains",
+    "description": "A Subway Builder train pack includes MTR trains from Hong Kong.",
+    "version": "v1.0.2",
+    "author": {
+		"name": "MaxCheng95",
+		"url": "https://github.com/MaxCheng95"
+	},
+    "main": "index.js",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MaxCheng95/MTR-Trains-for-Subway-Builder"
+	},
+	"keywords": [
+		"subway-builder",
+		"mod"
+	],
+	"subwayBuilderVersion": ">=1.7.12",
+	"dependencies": {
+	  "subway-builder": ">=1.7.12"
+	}
+}
